@@ -66,7 +66,7 @@ const products: Product[] = [
     title: "Word File Merger",
     description:
       "Combine multiple Word documents into a single file effortlessly. Maintain formatting and merge DOCX files with ease.",
-    link: "#",
+    link: "https://merge-docx.vercel.app/",
     icon: <FileStack className="w-7 h-7" />,
     status: "live",
     gradient: "from-pink-500 to-rose-600",
