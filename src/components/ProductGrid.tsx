@@ -56,7 +56,7 @@ const products: Product[] = [
     title: "PDF Splitter",
     description:
       "Upload your PDF and split it into smaller files with multiple options. Choose from various splitting modes and download individually or as a ZIP file.",
-    link: "https://split.mathtoword.com/",
+    link: "https://splitpdf.mathtoword.com/",
     icon: <Scissors className="w-7 h-7" />,
     status: "live",
     gradient: "from-orange-500 to-red-500",
@@ -66,7 +66,7 @@ const products: Product[] = [
     title: "Word File Merger",
     description:
       "Combine multiple Word documents into a single file effortlessly. Maintain formatting and merge DOCX files with ease.",
-    link: "https://merge-docx.vercel.app/",
+    link: "https://mergeword.mathtoword.com/",
     icon: <FileStack className="w-7 h-7" />,
     status: "live",
     gradient: "from-pink-500 to-rose-600",
@@ -76,7 +76,7 @@ const products: Product[] = [
     title: "PDF Editor",
     description:
       "Edit PDF files online with our powerful editor. Add text, images, annotations, and make changes without downloading software.",
-    link: "#",
+    link: "https://editpdf.mathtoword.com/",
     icon: <Edit3 className="w-7 h-7" />,
     status: "coming-soon",
     gradient: "from-indigo-500 to-purple-600",
@@ -86,7 +86,7 @@ const products: Product[] = [
     title: "DOCX Opener",
     description:
       "Open and view DOCX files in your browser instantly. No software installation required - just upload and view your documents.",
-    link: "#",
+    link: "https://viewdocx.mathtoword.com/",
     icon: <FolderOpen className="w-7 h-7" />,
     status: "coming-soon",
     gradient: "from-amber-500 to-orange-600",
@@ -96,7 +96,7 @@ const products: Product[] = [
     title: "File Converter",
     description:
       "Convert between multiple file formats. Support for documents, images, and more.",
-    link: "#",
+    link: "https://convert.mathtoword.com/",
     icon: <RefreshCcw className="w-7 h-7" />,
     status: "coming-soon",
     gradient: "from-green-500 to-emerald-600",
